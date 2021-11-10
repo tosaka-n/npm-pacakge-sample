@@ -4,7 +4,7 @@
 $ cd package-A
 $ npm link
 $ cd ../package-B
-$ npm link tos-package-sample-B
+$ npm link tos-package-sample-A
 $ node index
 ```
 
